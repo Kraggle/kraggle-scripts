@@ -72,6 +72,12 @@ $(() => {
 			setMyHeight($(this).parent());
 		});
 	}
+
+	// Social icon fix
+	$('.et-social-itunes')
+		.removeClass('et-social-itunes')
+		.addClass('et-social-discord')
+	$('.et-social-discord > a').attr('title', 'Join us on Discord');
 });
 
 const urlParam = name => {

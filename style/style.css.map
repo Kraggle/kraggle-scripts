@@ -1,0 +1,1 @@
+{"version":3,"file":"wp-content/plugins/kraggle-scripts/style/style.css","mappings":"AAAA;EACE;AACF,C","sources":["webpack://wp-insta/./wp-content/plugins/kraggle-scripts/style/source/style.scss"],"sourcesContent":[".et-social-discord a.icon:before {\r\n  content: \"\\f392\";\r\n}\r\n"],"names":[],"sourceRoot":""}
